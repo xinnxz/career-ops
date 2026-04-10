@@ -13,7 +13,13 @@
     "update:check": "node update-system.mjs check",
     "update": "node update-system.mjs apply",
     "rollback": "node update-system.mjs rollback",
-    "liveness": "node check-liveness.mjs"
+    "liveness": "node check-liveness.mjs",
+    "scan": "node scripts/job-scanner.mjs",
+    "scan:top": "node scripts/job-scanner.mjs --top 10",
+    "scan:platforms": "node scripts/platform-scanner.mjs",
+    "scan:linkedin": "node scripts/platform-scanner.mjs --platform linkedin",
+    "scan:jobstreet": "node scripts/platform-scanner.mjs --platform jobstreet",
+    "scan:twine": "node scripts/platform-scanner.mjs --platform twine"
   },
   "keywords": ["ai", "job-search", "claude-code", "career", "automation"],
   "author": "Santiago Fernández de Valderrama <hi@santifer.io> (https://santifer.io)",

@@ -253,7 +253,7 @@ function scoreJob(job) {
       flagsFound.push(flag);
     }
   }
-  score -= redFlagCount * 10;
+  score -= redFlagCount * 5;
 
   // 5. RECENCY BONUS (max 15 points)
   if (job.date) {
@@ -272,7 +272,7 @@ function scoreJob(job) {
     score,
     matchedSkills: matchedSkills.slice(0, 8),
     redFlags: flagsFound,
-    verdict: score >= 70 ? '🟢 APPLY!' : score >= 50 ? '🟡 CONSIDER' : '🔴 SKIP'
+    verdict: score >= 60 ? '🟢 APPLY!' : score >= 35 ? '🟡 CONSIDER' : '🔴 SKIP'
   };
 }
 
