@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-balance-snapshot",
+  "version": "1.0.0",
+  "description": "Fetch token balances across multiple blockchain networks at a specific timestamp (EOY 2024)",
+  "type": "module",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "avail": "node src/chains/avail.mjs",
+    "kcc": "node src/chains/kcc.mjs",
+    "ton": "node src/chains/ton.mjs",
+    "ltc": "node src/chains/ltc.mjs"
+  },
+  "author": "Luthfi Alfaridz Fahmi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "ethers": "^6.13.0"
+  }
+}
