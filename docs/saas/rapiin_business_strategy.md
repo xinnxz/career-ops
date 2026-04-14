@@ -1,4 +1,4 @@
-# 🚀 Rapiin.id — Master Business & Marketing Strategy
+# 🚀 cvitae.id — Master Business & Marketing Strategy
 
 > Dokumen ini berisi strategi lengkap: fitur produk, model bisnis, dan taktik marketing berbasis psikologi untuk memaksimalkan penjualan CV Generator.
 
@@ -122,7 +122,7 @@ Kasih user pilihan template:
 │  Template CV premium: Rp 150.000        │
 │  Kelas bikin CV online: Rp 200.000      │
 │                                          │
-│  Rapiin.id: Rp 29.000 (sekali bayar)    │
+│  cvitae.id: Rp 29.000 (sekali bayar)    │
 │                                          │
 │  ⚡ HEMAT 94% dibanding konsultan        │
 │                                          │
@@ -221,7 +221,7 @@ Hook: "CV ini nggak pernah dipanggil interview..."
 *tampilkan CV jelek*
 Transition: "Setelah di-rapiin..."
 *tampilkan CV cantik*
-CTA: "Rapiin CV kamu di rapiin.id"
+CTA: "Rapiin CV kamu di cvitae.id"
 ```
 **Kenapa viral:** Transformation content selalu perform baik di semua platform.
 
@@ -275,7 +275,7 @@ Bukan karena kamu kurang qualified.
 Tapi karena 78% CV di-reject otomatis oleh robot ATS
 SEBELUM dibaca sama HR.
 
-Cek skor ATS CV kamu GRATIS di rapiin.id 👇"
+Cek skor ATS CV kamu GRATIS di cvitae.id 👇"
 
 🖼️ Visual: Screenshot before/after CV
 ```
@@ -288,7 +288,7 @@ Rata-rata skor ATS naik dari 34 → 91.
 
 Yang belum? Kamu. 😬
 
-Cek CV kamu → rapiin.id"
+Cek CV kamu → cvitae.id"
 ```
 
 #### Ad 3: "Pain Point Langsung"
@@ -301,7 +301,7 @@ Dalam 6 detik itu, CV kamu harus:
 ✅ Ada angka pencapaian, bukan cuma tugas
 ✅ Summary yang bikin HR berhenti scroll
 
-CV kamu sudah begitu? Cek gratis → rapiin.id"
+CV kamu sudah begitu? Cek gratis → cvitae.id"
 ```
 
 ### 5.3 Budget & Target ROAS
@@ -390,7 +390,7 @@ User share → teman klik → teman coba → teman beli
 ### 7.2 LinkedIn Viral Loop
 Setiap CV yang di-generate punya watermark kecil:
 ```
-"CV dibuat dengan Rapiin.id"
+"CV dibuat dengan cvitae.id"
 ```
 Ketika user upload CV ke LinkedIn/Jobstreet → brand exposure gratis.
 
@@ -470,7 +470,7 @@ Database:    Supabase / PostgreSQL
 |------|-------|
 | Vercel hosting | Gratis (awal) → $20/bulan |
 | AI API (Gemini/OpenAI) | ~Rp 200K-500K/bulan |
-| Domain rapiin.id | ~Rp 150K/tahun |
+| Domain cvitae.id | ~Rp 150K/tahun |
 | Midtrans fee | 2.9% per transaksi |
 | **Total** | **< Rp 1 juta/bulan** |
 
